@@ -1,4 +1,4 @@
-#### Market-basket Analysis on IMDB
+# Market-basket Analysis on IMDB
 ## Introduction
 
 This project will deal with one of the most relevant techniques for charactering data: the discovery of frequent itemsets.
